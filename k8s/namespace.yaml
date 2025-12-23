@@ -1,4 +1,4 @@
 apiVersion: v1
 kind: Namespace
 metadata:
-  name: monkey-D-Luffy-github-action
+  name: monkey-d-luffy-github-action
